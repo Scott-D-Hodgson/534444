@@ -1,3 +1,5 @@
+theme = "bootstrap"
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-ca"
+title = "Scott D Hodgson"
+MetaDataFormat = "toml"
