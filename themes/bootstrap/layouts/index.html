@@ -3,9 +3,11 @@
     <head>
         {{ partial "jquery.html" . }}
         {{ partial "bootstrap.html" . }}
+        {{ partial "fontawesome.html" . }}
         <title>{{ .Title }}</title>
     </head>
     <body>
+        <i class="far fa-bug"></i>
         {{ .Content }}
     </body>
 </html>
